@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Virtual environments
+Lib/
+Scripts/
+Include/
+pyvenv.cfg
+.venv/
+venv/
+share/
+
+# IDE
+.idea/
+.vscode/
+
+# Runtime data
+data/
+tmp_pdf_text.txt
+
+# Environment
+.env
+
+# Node / frontend
+node_modules/
+dist/
+frontend/.playwright-cli/
+*.log
+
+# 部署临时文件
+cf-tunnel.log
+rag-kb.tar.gz
