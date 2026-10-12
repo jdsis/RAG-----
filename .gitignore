@@ -33,3 +33,6 @@ frontend/.playwright-cli/
 # 部署临时文件
 cf-tunnel.log
 rag-kb.tar.gz
+
+# 本地工作记录（含私人环境信息，不入仓库）
+.workbuddy/
